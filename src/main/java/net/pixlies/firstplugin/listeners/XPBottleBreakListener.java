@@ -11,6 +11,5 @@ public class XPBottleBreakListener implements Listener {
     public void onXPBottleBreak(ExpBottleEvent e){
 
         Block block = e.getHitBlock();
-        block.breakNaturally();
     }
 }
