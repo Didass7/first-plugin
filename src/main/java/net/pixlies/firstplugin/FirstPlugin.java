@@ -7,12 +7,12 @@ import net.pixlies.firstplugin.listeners.XPBottleBreakListener;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Firstplugin extends JavaPlugin implements Listener {
+public class FirstPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
         // Plugin startup logic
-        System.out.println("The Plugin successfully started! Yuppy :D");
+        getLogger().info("The Plugin successfully started! Yuppy :D");
 
         getServer().getPluginManager().registerEvents(new XPBottleBreakListener(), this);
         getServer().getPluginManager().registerEvents(new ShearSheepListener(), this);
