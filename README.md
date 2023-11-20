@@ -1,2 +1,2 @@
 # first-plugin
-this is just a plugin to train my coding abilities 🤓
+a even better version of first-plugin 🤓

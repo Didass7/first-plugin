@@ -1,5 +1,0 @@
-net\pixlies\firstplugin\FirstPlugin.class
-net\pixlies\firstplugin\listeners\ShearSheepListener.class
-net\pixlies\firstplugin\listeners\XPBottleBreakListener.class
-net\pixlies\firstplugin\listeners\PlayerDropItemListener.class
-net\pixlies\firstplugin\listeners\PlayerJoinListener.class

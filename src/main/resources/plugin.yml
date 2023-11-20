@@ -1,4 +1,0 @@
-name: FirstPlugin
-version: '${project.version}'
-main: net.pixlies.firstplugin.FirstPlugin
-api-version: '1.20'
