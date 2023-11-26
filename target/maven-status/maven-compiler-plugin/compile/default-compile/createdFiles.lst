@@ -1,3 +1,4 @@
+net\pixlies\firstplugin\listeners\JoinLeaveListeners.class
 net\pixlies\firstplugin\listeners\PlayerDropItemListener.class
 net\pixlies\firstplugin\FirstPlugin.class
 net\pixlies\firstplugin\listeners\ShearSheepListener.class
